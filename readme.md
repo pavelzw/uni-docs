@@ -24,7 +24,7 @@ Here are direct links to the pdf files for my flashcards:
 
 ### Geometry
 
-- [Elementare Geometrie TODO](https://github.com/pavelzw/elementare-geometrie-zusammenfassung.git)
+- [Elementare Geometrie](https://github.com/pavelzw/elementare-geometrie-zusammenfassung/releases/latewst/download/main.pdf)
 
 ### Numerical Mathematics
 
@@ -33,7 +33,7 @@ Here are direct links to the pdf files for my flashcards:
 
 ### Stochastics
 
-- [Einführung in die Stochastik TODO](https://github.com/pavelzw/Stochastik-Zusammenfassung.git)
+- [Einführung in die Stochastik](https://github.com/pavelzw/Stochastik-Zusammenfassung/releases/latest/download/main.pdf)
 - [Markovsche Ketten](https://github.com/pavelzw/Markovketten-Zusammenfassung/releases/latest/download/main.pdf)
 - [Finanzmathematik in diskreter Zeit](https://github.com/pavelzw/finanzmathematik-zusammenfassung/releases/latest/download/main.pdf)
 - [Statistik](https://github.com/pavelzw/Statistik-Zusammenfassung/releases/latest/download/main.pdf)
@@ -42,12 +42,12 @@ Here are direct links to the pdf files for my flashcards:
 
 In the following, you can find a list of the seminars that I participated in during my time at KIT.
 
-- [Proseminar Endliche Spiegelungsgruppen: Einfache Wurzeln TODO]()
-- [Proseminar Grundlagen des Maschinellen Lernens: PyTorch, TensorFlow und Keras TODO]()
-- [Seminar Analysis: Approximationssatz von Stone-Weierstraß TODO]()
-- [Seminar Mathematische Aspekte des maschinellen Lernens: Approximationstheorie TODO]()
+- [Proseminar Endliche Spiegelungsgruppen: Einfache Wurzeln](https://github.com/pavelzw/Einfache-Wurzeln/releases/latest)
+- [Proseminar Grundlagen des Maschinellen Lernens: PyTorch, TensorFlow und Keras](https://github.com/pavelzw/proseminar-pytorch-keras/releases/latest/download/main.pdf)
+- [Seminar Analysis: Approximationssatz von Stone-Weierstraß](https://github.com/pavelzw/Seminar-Weierstrass/releases/latest)
+- [Seminar Mathematische Aspekte des maschinellen Lernens: Approximationstheorie](https://github.com/pavelzw/approximation-theory-ml/releases/latest)
 - Seminar Animierte Mathematik: Der Sieben Kreise Satz, [English](https://youtu.be/m9v0h2ibYpo) and [German](https://youtu.be/flR3e5Cc2G4)
 
 ## Lecture notes
 
-I wrote lecture notes for [Analysis 1 TODO]() and [Analysis 2 TODO]().
+I wrote lecture notes for [Analysis 1](https://github.com/pavelzw/Analysis-I-Skript/releases/latest) and [Analysis 2](https://github.com/pavelzw/Analysis-II-Skript/releases/latest).
