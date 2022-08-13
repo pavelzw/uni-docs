@@ -58,3 +58,9 @@
 [submodule "karteikarten/lineare-algebra-1"]
 	path = karteikarten/lineare-algebra-1
 	url = https://github.com/pavelzw/LA-I-Zusammenfassung.git
+[submodule "mitschriebe/analysis-1"]
+	path = mitschriebe/analysis-1
+	url = https://github.com/pavelzw/Analysis-I-Skript.git
+[submodule "mitschriebe/analysis-2"]
+	path = mitschriebe/analysis-2
+	url = https://github.com/pavelzw/Analysis-II-Skript.git
