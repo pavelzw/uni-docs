@@ -13,3 +13,48 @@
 [submodule "seminare/einfache-wurzeln"]
 	path = seminare/einfache-wurzeln
 	url = https://github.com/pavelzw/Einfache-Wurzeln.git
+[submodule "karteikarten/functional-analysis"]
+	path = karteikarten/functional-analysis
+	url = https://github.com/pavelzw/functional-analysis-zusammenfassung.git
+[submodule "karteikarten/finanzmathematik-diskret"]
+	path = karteikarten/finanzmathematik-diskret
+	url = https://github.com/pavelzw/finanzmathematik-zusammenfassung.git
+[submodule "karteikarten/statistik"]
+	path = karteikarten/statistik
+	url = https://github.com/pavelzw/Statistik-Zusammenfassung.git
+[submodule "karteikarten/analysis-3"]
+	path = karteikarten/analysis-3
+	url = https://github.com/pavelzw/Ana-III-Zusammenfassung.git
+[submodule "karteikarten/elementare-geometrie"]
+	path = karteikarten/elementare-geometrie
+	url = https://github.com/pavelzw/elementare-geometrie-zusammenfassung.git
+[submodule "karteikarten/analysis-4"]
+	path = karteikarten/analysis-4
+	url = https://github.com/pavelzw/Ana-IV-Zusammenfassung.git
+[submodule "karteikarten/eaz"]
+	path = karteikarten/eaz
+	url = https://github.com/pavelzw/EAZ-Zusammenfassung.git
+[submodule "karteikarten/markovketten"]
+	path = karteikarten/markovketten
+	url = https://github.com/pavelzw/Markovketten-Zusammenfassung.git
+[submodule "karteikarten/numerik-2"]
+	path = karteikarten/numerik-2
+	url = https://github.com/pavelzw/Numerik-2-Zusammenfassung.git
+[submodule "karteikarten/numerik-1"]
+	path = karteikarten/numerik-1
+	url = https://github.com/pavelzw/Numerik-Zusammenfassung.git
+[submodule "karteikarten/lineare-algebra-2"]
+	path = karteikarten/lineare-algebra-2
+	url = https://github.com/pavelzw/LA-II-Zusammenfassung.git
+[submodule "karteikarten/einfuehrung-stochastik"]
+	path = karteikarten/einfuehrung-stochastik
+	url = https://github.com/pavelzw/Stochastik-Zusammenfassung.git
+[submodule "karteikarten/analysis-2"]
+	path = karteikarten/analysis-2
+	url = https://github.com/pavelzw/Ana-II-Zusammenfassung.git
+[submodule "karteikarten/analysis-1"]
+	path = karteikarten/analysis-1
+	url = https://github.com/pavelzw/Ana-Zusammenfassung.git
+[submodule "karteikarten/lineare-algebra-1"]
+	path = karteikarten/lineare-algebra-1
+	url = https://github.com/pavelzw/LA-I-Zusammenfassung.git
