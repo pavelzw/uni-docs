@@ -24,7 +24,7 @@ Here are direct links to the pdf files for my flashcards:
 
 ### Geometry
 
-- [Elementare Geometrie](https://github.com/pavelzw/elementare-geometrie-zusammenfassung/releases/latewst/download/main.pdf)
+- [Elementare Geometrie (not finished)](https://github.com/pavelzw/elementare-geometrie-zusammenfassung/releases/latest/download/main.pdf)
 
 ### Numerical Mathematics
 
