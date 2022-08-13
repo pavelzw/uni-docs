@@ -1,0 +1,15 @@
+[submodule "seminare/approximation-theory-ml"]
+	path = seminare/approximation-theory-ml
+	url = https://github.com/pavelzw/approximation-theory-ml.git
+[submodule "seminare/7circles"]
+	path = seminare/7circles
+	url = https://github.com/pavelzw/7circles.git
+[submodule "seminare/pytorch-keras"]
+	path = seminare/pytorch-keras
+	url = https://github.com/pavelzw/proseminar-pytorch-keras.git
+[submodule "seminare/weierstrass-approximation-theorem"]
+	path = seminare/weierstrass-approximation-theorem
+	url = https://github.com/pavelzw/Seminar-Weierstrass.git
+[submodule "seminare/einfache-wurzeln"]
+	path = seminare/einfache-wurzeln
+	url = https://github.com/pavelzw/Einfache-Wurzeln.git
