@@ -1,6 +1,6 @@
 # University documents
 
-This repository is a collection of all my university documents from KIT.
+This repository is a collection of all my university documents from [KIT](https://kit.edu) and [Radboud University](https://ru.nl).
 
 You can find slides for my seminar presentations, summaries as well as lecture notes here, mostly in German.
 
@@ -47,6 +47,7 @@ In the following, you can find a list of the seminars that I participated in dur
 - [Seminar Analysis: Approximationssatz von Stone-Weierstraß](https://github.com/pavelzw/Seminar-Weierstrass/releases/latest)
 - [Seminar Mathematische Aspekte des maschinellen Lernens: Approximationstheorie](https://github.com/pavelzw/approximation-theory-ml/releases/latest)
 - Seminar Animierte Mathematik: Der Sieben Kreise Satz, [English](https://youtu.be/m9v0h2ibYpo) and [German](https://youtu.be/flR3e5Cc2G4)
+- [Seminar Mathematical Foundations of Computer Science: Decidability of String Graphs](https://github.com/pavelzw/string-graphs/releases/latest/download/presentation.pdf)
 
 ## Lecture notes
 

@@ -64,3 +64,6 @@
 [submodule "mitschriebe/analysis-2"]
 	path = mitschriebe/analysis-2
 	url = https://github.com/pavelzw/Analysis-II-Skript.git
+[submodule "seminare/string-graphs"]
+	path = seminare/string-graphs
+	url = https://github.com/pavelzw/string-graphs.git
